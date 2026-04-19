@@ -1,6 +1,9 @@
 # National Time Network-Synchronised Speaking Clock using STM32, FreeRTOS and QEMU
 
-<video src="Demonstration.mp4" width=100% controls></video>
+<video src="Demonstration.mp4" width=100%>
+</video>
+
+[Demonstration](Demonstration.mp4)
 
 ## Instructions to Run
 
