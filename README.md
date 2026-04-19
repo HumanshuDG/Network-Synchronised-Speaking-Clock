@@ -1,10 +1,12 @@
 # National Time Network-Synchronised Speaking Clock using STM32, FreeRTOS and QEMU
 
+<video src="Demonstration.mp4" width=100% controls></video>
+
 ## Instructions to Run
 
 ### Prerequisites
 
-Install the following packages (Ubuntu/Debian):
+Install the following packages (Ubuntu):
 
 ```bash
 # ARM cross-compiler toolchain
